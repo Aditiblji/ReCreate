@@ -31,6 +31,21 @@
 
 ---
 
+## 🖥️ Prototype images
+
+# Home page:
+<img width="782" height="747" alt="image" src="https://github.com/user-attachments/assets/c64b5bcf-e055-43f4-b4a9-aa3c706a1167" />
+
+# Searched images:
+<img width="1275" height="800" alt="image" src="https://github.com/user-attachments/assets/26bcf59d-556e-4ec1-9ee6-dca9753586c7" />
+
+# Details and steps:
+<img width="1026" height="837" alt="image" src="https://github.com/user-attachments/assets/860c3433-2189-49a3-a32c-96e3ca10003c" />
+
+# Feedback:
+<img width="958" height="205" alt="image" src="https://github.com/user-attachments/assets/d844cd5a-25d9-48d5-9b2b-b627f693709a" />
+
+
 ## 🧠 Tech Stack
 
 * **Frontend:** React
